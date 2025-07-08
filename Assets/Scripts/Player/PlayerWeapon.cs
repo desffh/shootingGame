@@ -8,16 +8,16 @@ public class PlayerWeapon : MonoBehaviour
     private IWeapon currentWeapon;
 
     // 기본 공격력
-    [SerializeField] private int baseDamage = 10;
+    [SerializeField] public int baseDamage = 10;
 
     // 추가 공격력
     [SerializeField] private float attackBuff = 1f;
 
-    [Header("무기 관련")]
-    [SerializeField] private Transform swordPoint;
+    [Header("무기 설정")]
+    [SerializeField] private Transform swordAttackPoint;
     [SerializeField] private LayerMask enemyLayer;
-    [SerializeField] private GameObject arrowPrefab;
-    [SerializeField] private Transform bowPoint;
+
+    [SerializeField] private ArrowCreate arrowPool;
 
     private void Start()
     {
@@ -26,19 +26,19 @@ public class PlayerWeapon : MonoBehaviour
     }
     public void EquipSword()
     {
-        currentWeapon = new Sword();
+        currentWeapon = new Sword(swordAttackPoint, 1.5f, baseDamage, enemyLayer);
         Debug.Log("검 상태에요");
     }
 
     public void EquipBow()
     {
-        currentWeapon = new Arrow();
+        // 생성 위치, 데미지
+        currentWeapon = new Arrow(arrowPool, baseDamage);
         Debug.Log("활 상태에요");
     }
 
-    public void EquipAttack()
+    public void EquipAttack(Vector2 dir)
     {
-        //int finalDamage = Mathf.RoundToInt(baseAttackDamage * attackMultiplier);
-        //currentWeapon?.TakeAttack(finalDamage);
+        currentWeapon?.TakeAttack(dir, baseDamage);
     }
 }

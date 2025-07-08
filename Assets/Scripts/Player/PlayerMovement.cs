@@ -14,7 +14,7 @@ public class PlayerMovement
         this.movespeed = movespeed;
     }
 
-    // 좌우 이동
+    // 상하좌우 이동
     public void Move(Vector2 direction)
     {
         // 물리 이동

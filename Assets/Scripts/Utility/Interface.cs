@@ -1,5 +1,8 @@
+using UnityEngine;
+
 
 // 데미지 받기
+
 public interface IDamageable
 {
     void TakeDamage(int damage);
@@ -8,5 +11,5 @@ public interface IDamageable
 // 전체 무기 - 플레이어 무기
 public interface IWeapon
 {
-    void TakeAttack(int damage);
+    void TakeAttack(Vector2 direction, int damage);
 }

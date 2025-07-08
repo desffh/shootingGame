@@ -18,6 +18,7 @@ public class Ork : Monster, IDamageable
     public void TakeDamage(int damage)
     {
         HP -= damage;
+        Debug.Log("오크 피 까였어요");
 
         if (HP <= 0)
         {

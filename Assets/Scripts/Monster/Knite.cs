@@ -18,6 +18,7 @@ public class Knite : Monster, IDamageable
     public void TakeDamage(int damage)
     {
         HP -= damage;
+        Debug.Log("나이트 피 까였어요");
 
         if (HP <= 0)
         {

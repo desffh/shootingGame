@@ -74,13 +74,14 @@ public class Player : MonoBehaviour, IDamageable
         if (isAnimating)
         {
             isAnimating = false;
-            playerWeapon.EquipAttack();
-            animator.IsAttack();
+            playerWeapon.EquipAttack(direction);
+            //animator.IsAttack();
         }
     }
 
     public void TakeDamage(int damage)
     {
         playerHP.Damage(damage);
+        HP = playerHP.HP;
     }
 }

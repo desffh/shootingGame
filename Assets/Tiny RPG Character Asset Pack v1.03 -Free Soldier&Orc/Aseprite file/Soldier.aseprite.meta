@@ -992,6 +992,7 @@ ScriptedImporter:
     cells:
     - name: Soldier_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1000,6 +1001,7 @@ ScriptedImporter:
       spriteId: 235a7419f7483364684b93a5187f39b7
     - name: Soldier_Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1008,6 +1010,7 @@ ScriptedImporter:
       spriteId: 76435df226ecbed49bdba9815b4a4123
     - name: Soldier_Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -1016,6 +1019,7 @@ ScriptedImporter:
       spriteId: 3169f57e4d3488349a255419671eaff5
     - name: Soldier_Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 40
@@ -1024,6 +1028,7 @@ ScriptedImporter:
       spriteId: 192c0cd37d6700745ab8b027205e644d
     - name: Soldier_Frame_41
       frameIndex: 41
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 40
@@ -1032,6 +1037,7 @@ ScriptedImporter:
       spriteId: 9ae0b6d9ecabf364689bf5208c4f3548
     - name: Soldier_Frame_42
       frameIndex: 42
+      additiveSortOrder: 0
       cellRect:
         x: 46
         y: 40
@@ -1040,6 +1046,7 @@ ScriptedImporter:
       spriteId: 6be6660e2db1c094bb015617929920cc
     - name: Soldier_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1048,6 +1055,7 @@ ScriptedImporter:
       spriteId: d25a0e8a84eafae44aa972b99d796500
     - name: Soldier_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1056,6 +1064,7 @@ ScriptedImporter:
       spriteId: 4e52ea7aca1d5374fabe7edc13299933
     - name: Soldier_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1064,6 +1073,7 @@ ScriptedImporter:
       spriteId: 8a66cdb7006a9294db4aa3af3e13ce53
     - name: Soldier_Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1072,6 +1082,7 @@ ScriptedImporter:
       spriteId: 4d5edfe4b612f5c479035a3c27cfe12e
     - name: Soldier_Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1080,6 +1091,7 @@ ScriptedImporter:
       spriteId: 538165ace34239c45bbab61a8cf08c04
     - name: Soldier_Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1088,6 +1100,7 @@ ScriptedImporter:
       spriteId: ef90e4c6343206a48bdfd2cfe7c21b93
     - name: Soldier_Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1096,6 +1109,7 @@ ScriptedImporter:
       spriteId: 3d30846119342aa4cacb8e03a887790c
     - name: Soldier_Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1104,6 +1118,7 @@ ScriptedImporter:
       spriteId: ac026c3f463ee44409af2a9f7ff54cd5
     - name: Soldier_Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1112,6 +1127,7 @@ ScriptedImporter:
       spriteId: 85a5dfa56d4895b47a8c1951630337e9
     - name: Soldier_Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1120,6 +1136,7 @@ ScriptedImporter:
       spriteId: 13151c87217c03e419f457c564bd9f47
     - name: Soldier_Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1128,6 +1145,7 @@ ScriptedImporter:
       spriteId: 0a2147a7801e04a41bfa952b2cabf3fa
     - name: Soldier_Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1136,6 +1154,7 @@ ScriptedImporter:
       spriteId: 4540fe3c8aa1ccf4e9de45a050f8fbfd
     - name: Soldier_Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1144,6 +1163,7 @@ ScriptedImporter:
       spriteId: a0ab231393dc389488d1238fe1d364ae
     - name: Soldier_Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1152,6 +1172,7 @@ ScriptedImporter:
       spriteId: 02324b17208d3fd44a8b49c32d757943
     - name: Soldier_Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1160,6 +1181,7 @@ ScriptedImporter:
       spriteId: b76c4b864b8fe1b40bd8b010e601729d
     - name: Soldier_Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1168,6 +1190,7 @@ ScriptedImporter:
       spriteId: 289545ddbb1944e499982fa30e0fcdb5
     - name: Soldier_Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 40
@@ -1176,6 +1199,7 @@ ScriptedImporter:
       spriteId: 37fafd560b9210544a0402011d62a43a
     - name: Soldier_Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 40
@@ -1184,6 +1208,7 @@ ScriptedImporter:
       spriteId: 0312a3eadf237054cb9118c9d242f55a
     - name: Soldier_Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 40
@@ -1192,6 +1217,7 @@ ScriptedImporter:
       spriteId: 73846729a711cde488932920fb8f958c
     - name: Soldier_Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1200,6 +1226,7 @@ ScriptedImporter:
       spriteId: 930e91010c68b7747a61f9ed0f37281f
     - name: Soldier_Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 40
@@ -1208,6 +1235,7 @@ ScriptedImporter:
       spriteId: f91442ea968eefb43ad474f35421c95b
     - name: Soldier_Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 40
@@ -1216,6 +1244,7 @@ ScriptedImporter:
       spriteId: 23b04406a05a5bc428682887936a96e8
     - name: Soldier_Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1224,6 +1253,7 @@ ScriptedImporter:
       spriteId: 18ef29fe4eb81e34b95c41485eb531b8
     - name: Soldier_Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1232,6 +1262,7 @@ ScriptedImporter:
       spriteId: 120f8542dc1e4ec4bb6f2f2678c1aeb0
     - name: Soldier_Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1240,6 +1271,7 @@ ScriptedImporter:
       spriteId: 035992724d75da34499b16fc1443ddbc
     - name: Soldier_Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1248,6 +1280,7 @@ ScriptedImporter:
       spriteId: e49679f287f50f340aa8fcf5644719d8
     - name: Soldier_Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1256,6 +1289,7 @@ ScriptedImporter:
       spriteId: c8d841afe7cca2e40a016587668c1643
     - name: Soldier_Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1264,6 +1298,7 @@ ScriptedImporter:
       spriteId: d600bd7aec211f64187ac92cdf49a8d0
     - name: Soldier_Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1272,6 +1307,7 @@ ScriptedImporter:
       spriteId: a0f777ee600671d43993455ef31623d6
     - name: Soldier_Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1280,6 +1316,7 @@ ScriptedImporter:
       spriteId: a7746a3a18c1c504086cfcbc9ff0da18
     - name: Soldier_Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1288,6 +1325,7 @@ ScriptedImporter:
       spriteId: 97e0233596b6b724198167bbec8ec27c
     - name: Soldier_Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 40
@@ -1296,6 +1334,7 @@ ScriptedImporter:
       spriteId: 6315d4f06c6548048b09c21a2e75b3a1
     - name: Soldier_Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 40
@@ -1304,6 +1343,7 @@ ScriptedImporter:
       spriteId: ea9ccf71c6abb6540b5febc386bf44f7
     - name: Soldier_Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 40
@@ -1312,6 +1352,7 @@ ScriptedImporter:
       spriteId: af68c81303767fe4fa8fc2cc35ed1947
     - name: Soldier_Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 40
@@ -1320,6 +1361,7 @@ ScriptedImporter:
       spriteId: 937935524804f5d48bbca302470b6980
     - name: Soldier_Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
@@ -1328,6 +1370,7 @@ ScriptedImporter:
       spriteId: 747df1ec4190d114dbb572560c28db38
     - name: Soldier_Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 40
